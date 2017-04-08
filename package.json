@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/xiewulong/electron-app#readme",
   "devDependencies": {
-    "electron-prebuilt": "^1.4.13"
+    "electron": "^1.6.2"
   }
 }
