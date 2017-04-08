@@ -1,0 +1,30 @@
+{
+  "name": "electron-app",
+  "version": "0.0.1",
+  "description": "electron app template",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiewulong/electron-app.git"
+  },
+  "keywords": [
+    "express",
+    "app",
+    "template"
+  ],
+  "author": {
+    "name": "xiewulong",
+    "email": "xiewulong@vip.qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiewulong/electron-app/issues"
+  },
+  "homepage": "https://github.com/xiewulong/electron-app#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
